@@ -1,0 +1,5 @@
+Synthetic clinical note — demonstration only.
+Patient has documented T2DM and HTN, currently taking metformin.
+No confirmed CKD diagnosis in this note.
+HbA1c mentioned as 8.2%; enter this in the structured lab field after review.
+Note mentions do not automatically populate confirmed conditions or lab values.

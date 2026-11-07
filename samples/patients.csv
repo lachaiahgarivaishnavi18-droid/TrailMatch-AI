@@ -1,0 +1,3 @@
+code,age,sex,conditions,medications,notes,synthetic
+SAMPLE-001,54,female,T2DM;HTN,Metformin,Demonstration profile,true
+SAMPLE-002,67,male,NSCLC,,Stage requires confirmation,true

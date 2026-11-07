@@ -1,0 +1,7 @@
+-r requirements.txt
+sentence-transformers>=3.4,<6
+faiss-cpu>=1.10,<2
+spacy>=3.8,<4
+pandas>=2.2,<4
+# Optional production PostgreSQL driver
+psycopg[binary]>=3.2,<4
